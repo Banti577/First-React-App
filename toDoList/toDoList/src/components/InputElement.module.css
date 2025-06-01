@@ -1,0 +1,9 @@
+.inputsContainer{
+    display: flex;
+   flex-wrap: wrap;
+
+}
+.input{
+    margin: 8px;
+    font-size:19px;
+}

@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {}
+
+.mainToDoContainer {
+
+    background-color: rgb(240, 206, 230);
+    border: 2px solid gray;
+
+}
+
+.heading {
+    color: blue;
+}
